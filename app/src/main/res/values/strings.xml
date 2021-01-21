@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">salim_emirhan_ulusoy_final</string>
+    <string name="internetBaglantiTitle">İnternet Bağlantınız Yok</string>
+    <string name="internetBaglantiMessage">Uygulamayı Kullanmak İçin İnternete Bağlayın.</string>
+    <string name="internetBaglantiSettings">İnterneti Aç</string>
+    <string name="internetBaglantiKapat">Kapat</string>
+
+    <string name="uygulamaKapatTitle">Uygulamayı Gerçekten Kapatmak İstiyor musunuz?</string>
+    <string name="uygulamaKapatNegative">Hayır</string>
+    <string name="uygulamaKapatPositive">Evet</string>
+
+    <string name="acKonu">Konusu</string>
+
+    <string name="detay_txtBaslik">Başlık</string>
+    <string name="detay_txtDetay">Detay</string>
+    <string name="detay_txtPlatformBaslik">Çıkış Platformları :</string>
+    <string name="detay_txtPlatformDetay">Detay</string>
+
+    <string name="cardview_txtOyunAdi">Assasins Creed</string>
+    <string name="cardview_txtOyunTarih">14 Kasım 2007</string>
+
+    <string name="progressDialog">Lütfen bekleyiniz..</string>
+
+    <string name="tiklananOyunAdi">Tıklanan Adı :</string>
+
+</resources>

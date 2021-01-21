@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_padding">16dp</dimen>
+
+
+    <dimen name="splash_logo_layout_width">200dp</dimen>
+    <dimen name="splash_logo_layout_height">200dp</dimen>
+
+    <dimen name="detay_kapak_layout_height">200dp</dimen>
+
+    <dimen name="detay_txtBaslik_padding">10dp</dimen>
+    <dimen name="detay_txtBaslik_textSize">30sp</dimen>
+
+    <dimen name="detay_txtDetay_padding">10dp</dimen>
+    <dimen name="detay_txtDetay_textSize">20sp</dimen>
+
+    <dimen name="detay_txtPlatformBaslik_padding">10dp</dimen>
+    <dimen name="detay_txtPlatformBaslik_textSize">30sp</dimen>
+
+    <dimen name="detay_txtPlatformDetay_padding">10dp</dimen>
+    <dimen name="detay_txtPlatformDetay_textSize">20sp</dimen>
+
+    <dimen name="liste_imageListeKapak_layout_height">220dp</dimen>
+
+    <dimen name="liste_rcvOyunlar_layout_height">0dp</dimen>
+
+    <dimen name="cardview_layout_margin">16dp</dimen>
+
+    <dimen name="cardview_imgOyunLogo_layout_height">100dp</dimen>
+    <dimen name="cardview_imgOyunLogo_layout_width">100dp</dimen>
+    <dimen name="cardview_imgOyunLogo_marginStart">16dp</dimen>
+    <dimen name="cardview_imgOyunLogo_marginTop">16dp</dimen>
+    <dimen name="cardview_imgOyunLogo_marginBottom">16dp</dimen>
+
+    <dimen name="cardview_txtOyunAdi_layout_width">0dp</dimen>
+    <dimen name="cardview_txtOyunAdi_textSize">20sp</dimen>
+    <dimen name="cardview_txtOyunAdi_marginStart">16dp</dimen>
+    <dimen name="cardview_txtOyunAdi_marginEnd">5dp</dimen>
+
+    <dimen name="cardview_txtOyunTarih_textSize">14sp</dimen>
+    <dimen name="cardview_txtOyunTarih_marginTop">16dp</dimen>
+
+
+</resources>

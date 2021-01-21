@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.DetayActivity">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imgDetayKapak"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/detay_kapak_layout_height"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/creedbanner" />
+
+            <TextView
+                android:id="@+id/txtBaslik"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/detay_txtBaslik_padding"
+                android:text="@string/detay_txtBaslik"
+                android:textColor="@color/detayEkrani_baslik_color"
+                android:textSize="@dimen/detay_txtBaslik_textSize"
+                style="@style/CustomFontStyle" />
+
+            <TextView
+                android:id="@+id/txtDetay"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/detay_txtDetay_padding"
+                android:text="@string/detay_txtDetay"
+                android:textColor="@color/detayEkrani_detay_color"
+                android:textSize="@dimen/detay_txtDetay_textSize" />
+
+            <TextView
+                android:id="@+id/txtPlatformBaslik"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/detay_txtPlatformBaslik_padding"
+                android:text="@string/detay_txtPlatformBaslik"
+                android:textColor="@color/detayEkrani_baslik_color"
+                android:textSize="@dimen/detay_txtPlatformBaslik_textSize"
+                style="@style/CustomFontStyle" />
+
+            <TextView
+                android:id="@+id/txtPlatformDetay"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/detay_txtPlatformDetay_padding"
+                android:text="@string/detay_txtPlatformDetay"
+                android:textColor="@color/detayEkrani_detay_color"
+                android:textSize="@dimen/detay_txtPlatformDetay_textSize" />
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>
