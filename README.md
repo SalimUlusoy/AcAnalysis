@@ -8,3 +8,6 @@ AcAnalysis adındaki bu uygulama basit bir analiz ve bilgi uygulamasıdır Assas
 # Uygulamanın Ekran Görüntüleri 
 ![5EkranKolaj](https://user-images.githubusercontent.com/60936024/105424813-2060ed80-5c59-11eb-88f0-5f7cee5eb41f.PNG)
 
+# Uygulama Mvc Mimarisi Görüntüsü
+![Mvc](https://user-images.githubusercontent.com/60936024/105425038-9feebc80-5c59-11eb-9a02-fcc646be8dbd.PNG)
+
