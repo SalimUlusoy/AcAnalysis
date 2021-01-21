@@ -6,5 +6,5 @@
 AcAnalysis adındaki bu uygulama basit bir analiz ve bilgi uygulamasıdır Assassin's Creed oyun serisi hakkındaki bir çok bilgiye ulaşmayı kolaylaştırmak amacı ile üretilmiştir.
 
 # Uygulamanın Ekran Görüntüleri 
-![splash](https://user-images.githubusercontent.com/60936024/105424039-9ebc9000-5c57-11eb-80ba-cb44b2030093.png)
+![5EkranKolaj](https://user-images.githubusercontent.com/60936024/105424813-2060ed80-5c59-11eb-88f0-5f7cee5eb41f.PNG)
 
