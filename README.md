@@ -12,7 +12,7 @@ AcAnalysis adındaki bu uygulama basit bir analiz ve bilgi uygulamasıdır Assas
 ![Mvc](https://user-images.githubusercontent.com/60936024/105425038-9feebc80-5c59-11eb-9a02-fcc646be8dbd.PNG)
 
 # Uygulamada Kullanılan Teknolojiler
-* [Retrofit2](https://github.com/square/retrofit)
+[1] [Retrofit2](https://github.com/square/retrofit)
 * [Glide](https://github.com/bumptech/glide)
 * [Okhttp](https://github.com/square/okhttp)
 * [RxJava](https://github.com/ReactiveX/RxJava)
