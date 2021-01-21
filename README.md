@@ -19,3 +19,6 @@ AcAnalysis adındaki bu uygulama basit bir analiz ve bilgi uygulamasıdır Assas
 [3] [Okhttp](https://github.com/square/okhttp)
 
 [4] [RxJava](https://github.com/ReactiveX/RxJava)
+
+# Uygulamanın Açık Kaynak Lisansı
+
