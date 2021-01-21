@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">salim_emirhan_ulusoy_final</string>
+    <string name="app_name">AcAnalysis</string>
     <string name="internetBaglantiTitle">İnternet Bağlantınız Yok</string>
     <string name="internetBaglantiMessage">Uygulamayı Kullanmak İçin İnternete Bağlayın.</string>
     <string name="internetBaglantiSettings">İnterneti Aç</string>
