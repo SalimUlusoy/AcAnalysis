@@ -9,7 +9,7 @@ AcAnalysis adındaki bu uygulama basit bir analiz ve bilgi uygulamasıdır Assas
 ![5EkranKolaj](https://user-images.githubusercontent.com/60936024/105424813-2060ed80-5c59-11eb-88f0-5f7cee5eb41f.PNG)
 
 # Uygulama Mvc Mimarisi Görüntüsü
-![Mvc](https://user-images.githubusercontent.com/60936024/105425038-9feebc80-5c59-11eb-9a02-fcc646be8dbd.PNG)
+![Mvc](https://user-images.githubusercontent.com/60936024/105465677-465faf80-5ca4-11eb-8fee-312a22520750.PNG)
 
 # Uygulamada Kullanılan Teknolojiler
 [1] [Retrofit2](https://github.com/square/retrofit)
